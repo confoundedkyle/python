@@ -7,5 +7,7 @@ elif province == 'Nanavut':
     tax = 0.05
 elif province == 'Ontario':
     tax = 0.13
+else: 
+    tax = .15
 print(tax)
 
